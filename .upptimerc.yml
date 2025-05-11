@@ -8,7 +8,7 @@ sites:
   - name: Matomo Endpoint
     url: https://a.christianzehetner.net/matomo.php
   - name: Tyebot
-    url: https://bot.christianzehetner.net
+    url: https://bot.christianzehetner.net/briefing
   
   #- name: IPv6 test
   #  url: forwardemail.net
