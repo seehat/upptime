@@ -3,6 +3,8 @@ owner: seehat # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
+  - name: christianzehetner.at
+    url: https://christianzehetner.at
   - name: Matomo
     url: https://a.christianzehetner.net/index.php?module=Login
   - name: Matomo Endpoint
@@ -22,15 +24,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 
+  name: Status-Seite
   introTitle: "Webservice-Status von christianzehetner.net"
   introMessage: Du siehst hier die Uptime der verschiedenen Services und ob sie im Moment erreichbar sind, oder nicht. 
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
-    - title: Christian Zehetner
-      href: https://christianzehetner.at
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
