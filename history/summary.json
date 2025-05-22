@@ -58,17 +58,19 @@
     "url": "https://bot.christianzehetner.net/briefing",
     "icon": "https://icons.duckduckgo.com/ip3/bot.christianzehetner.net.ico",
     "slug": "tyebot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 722,
-    "timeWeek": 579,
-    "timeMonth": 663,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "time": 687,
+    "timeDay": 917,
+    "timeWeek": 645,
+    "timeMonth": 687,
+    "timeYear": 687,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   }
 ]
