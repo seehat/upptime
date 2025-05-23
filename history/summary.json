@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 1109,
-    "timeWeek": 1077,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "time": 1070,
+    "timeDay": 761,
+    "timeWeek": 961,
+    "timeMonth": 1070,
+    "timeYear": 1070,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1116,
-    "timeDay": 1296,
-    "timeWeek": 1039,
-    "timeMonth": 1116,
-    "timeYear": 1116,
+    "time": 1100,
+    "timeDay": 807,
+    "timeWeek": 1032,
+    "timeMonth": 1100,
+    "timeYear": 1100,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 171,
+    "time": 137,
+    "timeDay": 101,
     "timeWeek": 128,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.christianzehetner.net.ico",
     "slug": "tyebot",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 815,
-    "timeDay": 1698,
-    "timeWeek": 936,
-    "timeMonth": 815,
-    "timeYear": 815,
-    "dailyMinutesDown": {
-      "2025-05-22": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 797,
+    "timeDay": 1604,
+    "timeWeek": 934,
+    "timeMonth": 797,
+    "timeYear": 797,
+    "dailyMinutesDown": {}
   }
 ]
